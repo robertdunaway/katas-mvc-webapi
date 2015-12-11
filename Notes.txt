@@ -1,0 +1,13 @@
+MVC WebApi
+
+Use standards and guidelines as references for katas.
+
+Use interview questions for katas.
+
+
+
+
+
+
+
+
